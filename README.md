@@ -21,7 +21,7 @@ Durante este desafio, utilizamos conceitos um pouco mais avançados desenvolvend
 </a>
 
 
-<a href="/coffee-delivery" target="_blank">
+<a href="https://github.com/Kayke-Ti/Coffee-Delivery" target="_blank">
 <img src="https://user-images.githubusercontent.com/71772559/178192378-234b9c46-7e31-47fb-8ddf-245617d8b198.png" />
 </a>
 
