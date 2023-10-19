@@ -1,30 +1,30 @@
-## Desafio 02 - Coffee Delivery
-<img src="https://user-images.githubusercontent.com/71772559/178171983-f724d1a7-deb4-4d13-aa92-09e1cac4ec36.png" align="center" />
+# Coffee Delivery
 
-Durante este desafio, utilizamos conceitos um pouco mais avançados desenvolvendo do zero uma aplicação de encomenda de cafés! A aplicação conta com 3 telas sendo a primeira uma tela de apresentação e também de listagem dos cafés disponíveis. Na segunda tela, o usuário precisa preencher um formulário com seus dados de endereço e ao lado direito é possível visualizar os itens do carrinho, podendo alterar a quantidade ou remover o mesmo. Na terceira e última tela, é exibido uma confirmação do pedido e também os detalhes de entrega da compra.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71772559/178171983-f724d1a7-deb4-4d13-aa92-09e1cac4ec36.png" />
+</p>
 
-### 🛠️ Nesse projeto foi utilizado
+Neste desafio, desenvolvemos do zero uma aplicação de encomenda de cafés, utilizando conceitos avançados. A aplicação consiste em três telas. A primeira tela é tanto uma apresentação quanto uma lista de opções de café disponíveis. Na segunda tela, os usuários precisam preencher um formulário de endereço e, à direita, podem visualizar os itens em seu carrinho, com a opção de alterar as quantidades ou remover itens. Na terceira e última tela, é exibida uma confirmação do pedido e detalhes da entrega.
 
-* Vite
-* Styled Components
-* Local Storage
-* Typescript
-* Context API
-* React Router Dom
-* React Hook Form
-* Validações de formulário com Zod
+## 🛠️ Tecnologias Utilizadas neste Projeto
 
-<br />
+- Vite
+- Styled Components
+- Local Storage
+- Typescript
+- Context API
+- React Router Dom
+- React Hook Form
+- Validação de formulários com Zod
 
-<a href="https://coffee-delivery-livid.vercel.app/" target="_blank">
-<img src="https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png" />
-</a>
+## 🚀 Demonstração e Repositório
 
+Explore a demonstração ao vivo deste projeto: [Entrega de Café](https://coffee-delivery-livid.vercel.app/)
 
-<a href="https://github.com/Kayke-Ti/Coffee-Delivery" target="_blank">
-<img src="https://user-images.githubusercontent.com/71772559/178192378-234b9c46-7e31-47fb-8ddf-245617d8b198.png" />
-</a>
+Repositório no GitHub: [Entrega de Café no GitHub](https://github.com/Kayke-Ti/Coffee-Delivery)
 
-<a href="https://www.figma.com/file/5yT9ZzZmRQRS4yivGGB3pl/Coffee-Delivery/duplicate" target="_blank">
-<img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
-</a>
+## 🎨 Design no Figma
+
+Você pode visualizar o design deste projeto no Figma: [Design da Entrega de Café no Figma](https://www.figma.com/file/5yT9ZzZmRQRS4yivGGB3pl/Coffee-Delivery/duplicate)
+
+Sinta-se à vontade para conferir a demonstração ao vivo e o repositório para obter mais detalhes sobre esta aplicação de entrega de café.
